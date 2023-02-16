@@ -1,6 +1,6 @@
 # This repository contains logos of my public projects.
 
-### @ukorvl/react-on-screen
+### [@ukorvl/react-on-screen](https://github.com/ukorvl/react-on-screen)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./react-on-screen/react-on-screen-dark.svg"/>
