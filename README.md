@@ -16,3 +16,13 @@
   height="300"
   loading="lazy"
 />
+
+### [lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components)
+
+<img
+  alt="lightweight-charts-react-components logo"
+  src="./lightweight-charts-react-components/logo.svg"
+  width="300"
+  height="300"
+  loading="lazy"
+/>
