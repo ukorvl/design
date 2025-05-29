@@ -26,3 +26,13 @@
   height="300"
   loading="lazy"
 />
+
+### [lightweight-charts-vue](https://github.com/ukorvl/lightweight-charts-vue)
+
+<img
+  alt="lightweight-charts-vue logo"
+  src="./lightweight-charts-vue/logo.svg"
+  width="300"
+  height="300"
+  loading="lazy"
+/>
