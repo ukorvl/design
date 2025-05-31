@@ -7,6 +7,16 @@
   <img alt="react-on-screen logo" src="./react-on-screen/react-on-screen.svg" width="600"/>
 </picture>
 
+### [uniswap-cli](https://github.com/ukorvl/uniswap-cli)
+
+<img
+  alt="uniswap-cli logo"
+  src="./uniswap-cli/logo.png"
+  width="300"
+  height="300"
+  loading="lazy"
+/>
+
 ### [lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components)
 
 <img
@@ -22,6 +32,16 @@
 <img
   alt="lightweight-charts-vue logo"
   src="./lightweight-charts-vue/logo.svg"
+  width="300"
+  height="300"
+  loading="lazy"
+/>
+
+### [theseusjs](https://github.com/ukorvl/theseusjs)
+
+<img
+  alt="theseusjs logo"
+  src="./theseusjs/logo.png"
   width="300"
   height="300"
   loading="lazy"
