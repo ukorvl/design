@@ -46,3 +46,13 @@
   height="300"
   loading="lazy"
 />
+
+### [typescript-library-template](https://github.com/ukorvl/typescript-library-template)
+
+<img
+  alt="typescript-library-template logo"
+  src="./typescript-library-template/typescript-hotcake.png"
+  width="300"
+  height="300"
+  loading="lazy"
+/>
