@@ -7,11 +7,11 @@
   <img alt="react-on-screen logo" src="./react-on-screen/react-on-screen.svg" width="600"/>
 </picture>
 
-### [uniswap-cli](https://github.com/ukorvl/uniswap-cli)
+### [unimetrics](https://github.com/unimetrics)
 
 <img
-  alt="uniswap-cli logo"
-  src="./uniswap-cli/logo.png"
+  alt="unimetrics logo"
+  src="./unimetrics/logo.png"
   width="300"
   height="300"
   loading="lazy"
