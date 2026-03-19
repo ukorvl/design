@@ -7,16 +7,6 @@
   <img alt="react-on-screen logo" src="./react-on-screen/react-on-screen.svg" width="600"/>
 </picture>
 
-### [unimetrics](https://github.com/unimetrics)
-
-<img
-  alt="unimetrics logo"
-  src="./unimetrics/logo.png"
-  width="300"
-  height="300"
-  loading="lazy"
-/>
-
 ### [lightweight-charts-react-components](https://github.com/ukorvl/lightweight-charts-react-components)
 
 <img
