@@ -46,3 +46,13 @@
   height="300"
   loading="lazy"
 />
+
+### [yarn-plugin-pnp-doctor](https://github.com/ukorvl/yarn-plugin-pnp-doctor)
+
+<img
+  alt="yarn-plugin-pnp-doctor logo"
+  src="./yarn-plugin-pnp-doctor/logo.png"
+  width="300"
+  height="300"
+  loading="lazy"
+/>
