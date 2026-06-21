@@ -56,3 +56,10 @@
   height="300"
   loading="lazy"
 />
+
+### [swag-mi](https://github.com/ukorvl/swag-mi)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./swag-mi/swag-mi-dark.png"/>
+  <img alt="swag-mi logo" src="./swag-mi/swag-mi.png" width="300"/>
+</picture>
