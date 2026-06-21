@@ -57,9 +57,9 @@
   loading="lazy"
 />
 
-### [swag-mi](https://github.com/ukorvl/swag-mi)
+### [@ukorvl/swagmi](https://github.com/ukorvl/swagmi)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./swag-mi/swag-mi-dark.png"/>
-  <img alt="swag-mi logo" src="./swag-mi/swag-mi.png" width="300"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./swagmi/swagmi-dark.png"/>
+  <img alt="swagmi logo" src="./swagmi/swagmi.png" width="300"/>
 </picture>
